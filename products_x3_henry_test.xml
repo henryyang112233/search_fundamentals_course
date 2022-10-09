@@ -1,0 +1,495 @@
+<products>
+  <product>
+    <sku>2570</sku>
+    <productId>1051806942127</productId>
+    <name>Fuji - 110 Color Print Disc Film (24 exposures)</name>
+    <source>bestbuy</source>
+    <type>HardGood</type>
+    <startDate>2000-03-01</startDate>
+    <new>false</new>
+    <active>false</active>
+    <activeUpdateDate>2012-07-02T22:28:55</activeUpdateDate>
+    <regularPrice>1.89</regularPrice>
+    <salePrice>1.89</salePrice>
+    <onSale>false</onSale>
+    <planPrice/>
+    <priceWithPlan/>
+    <advertisedPriceRestriction>false</advertisedPriceRestriction>
+    <minimumDisplayPrice/>
+    <restrictedSalePrice>1.89</restrictedSalePrice>
+    <icrType/>
+    <icrStartDate/>
+    <icrEndDate/>
+    <priceUpdateDate>2012-07-02T22:28:55</priceUpdateDate>
+    <digital>false</digital>
+    <preowned>false</preowned>
+    <carrierPlans/>
+    <technologyCode/>
+    <carrierModelNumber/>
+    <earlyTerminationFees/>
+    <outletCenter/>
+    <secondaryMarket/>
+    <frequentlyPurchasedWith/>
+    <accessories/>
+    <relatedProducts/>
+    <crossSell/>
+    <salesRankShortTerm/>
+    <salesRankMediumTerm/>
+    <salesRankLongTerm/>
+    <bestSellingRank/>
+    <url/>
+    <spin360Url/>
+    <mobileUrl/>
+    <affiliateUrl/>
+    <addToCartUrl/>
+    <affiliateAddToCartUrl/>
+    <cjAffiliateUrl/>
+    <cjAffiliateAddToCartUrl/>
+    <upc>074101200058</upc>
+    <categoryPath/>
+    <lists/>
+    <customerReviewCount/>
+    <customerReviewAverage/>
+    <format/>
+    <freeShipping>false</freeShipping>
+    <hardGoodType>normalHardgood</hardGoodType>
+    <inStoreAvailability>false</inStoreAvailability>
+    <inStoreAvailabilityText>Store Pickup: Not Available</inStoreAvailabilityText>
+    <inStoreAvailabilityTextHtml>&lt;b&gt;Store Pickup:&lt;/b&gt; Not Available</inStoreAvailabilityTextHtml>
+    <inStoreAvailabilityUpdateDate>2012-07-02T22:28:55</inStoreAvailabilityUpdateDate>
+    <itemUpdateDate>2012-07-03T08:02:12</itemUpdateDate>
+    <onlineAvailability>false</onlineAvailability>
+    <onlineAvailabilityText>Shipping: Not available</onlineAvailabilityText>
+    <onlineAvailabilityTextHtml>&lt;b&gt;Shipping:&lt;/b&gt; Not available</onlineAvailabilityTextHtml>
+    <onlineAvailabilityUpdateDate>2012-07-02T22:28:55</onlineAvailabilityUpdateDate>
+    <releaseDate/>
+    <shippingCost/>
+    <shipping/>
+    <specialOrder>false</specialOrder>
+    <shortDescription>110 disc color print, 200-speed film; 24 exposures; for use indoors with flash or outdoors</shortDescription>
+    <shortDescriptionHtml>110 disc color print, 200-speed film; 24 exposures; for use indoors with flash or outdoors</shortDescriptionHtml>
+    <class>FILM</class>
+    <classId>51</classId>
+    <subclass>110/DISC</subclass>
+    <subclassId>74</subclassId>
+    <department>PHOTO/COMMODITIES</department>
+    <departmentId>5</departmentId>
+    <bestBuyItemId>475380</bestBuyItemId>
+    <buybackPlans/>
+    <protectionPlans/>
+    <description/>
+    <manufacturer>Fuji</manufacturer>
+    <modelNumber>01011121</modelNumber>
+    <image>http://images.bestbuy.com/BestBuy_US/images/products/2570/2570_rc.jpg</image>
+    <largeFrontImage/>
+    <mediumImage>http://images.bestbuy.com/BestBuy_US/images/products/2570/2570fp.gif</mediumImage>
+    <thumbnailImage>http://images.bestbuy.com/BestBuy_US/images/products/2570/2570_r.gif</thumbnailImage>
+    <largeImage>http://images.bestbuy.com/BestBuy_US/images/products/2570/2570_rb.jpg</largeImage>
+    <alternateViewsImage/>
+    <angleImage>http://images.bestbuy.com/BestBuy_US/images/products/2570/2570_ra.jpg</angleImage>
+    <backViewImage/>
+    <energyGuideImage/>
+    <leftViewImage/>
+    <accessoriesImage/>
+    <remoteControlImage/>
+    <rightViewImage/>
+    <topViewImage/>
+    <condition>New</condition>
+    <inStorePickup>false</inStorePickup>
+    <friendsAndFamilyPickup>false</friendsAndFamilyPickup>
+    <homeDelivery>false</homeDelivery>
+    <quantityLimit>50</quantityLimit>
+    <bundledIn/>
+    <color/>
+    <depth/>
+    <dollarSavings>0.00</dollarSavings>
+    <tradeInValue/>
+    <height/>
+    <orderable>NotOrderable</orderable>
+    <weight/>
+    <shippingWeight>0.1</shippingWeight>
+    <width/>
+    <warrantyLabor/>
+    <warrantyParts/>
+    <longDescription>110 disc color print, 200-speed film. 24 exposures. For use indoors with flash or outdoors.</longDescription>
+    <longDescriptionHtml>110 disc color print, 200-speed film. 24 exposures. For use indoors with flash or outdoors.</longDescriptionHtml>
+    <details>
+      <detail>
+        <name>Flash Range</name>
+        <value>2.5' to 12'</value>
+      </detail>
+      <detail>
+        <name>Viewfinder</name>
+        <value>Yes</value>
+      </detail>
+      <detail>
+        <name>Film Speed</name>
+        <value>200</value>
+      </detail>
+      <detail>
+        <name>Film Type</name>
+        <value>110 color print</value>
+      </detail>
+      <detail>
+        <name>Other Features</name>
+        <value>24 exposure; outdoor or indoor with flash</value>
+      </detail>
+    </details>
+    <includedItemList/>
+    <features/>
+    <offers/>
+    <marketplace>false</marketplace>
+    <listingId/>
+    <sellerId/>
+  </product>
+  <product>
+    <sku>12854</sku>
+    <productId>1051806941102</productId>
+    <name>Manufacturer - Test sku - Color</name>
+    <source>bestbuy</source>
+    <type>HardGood</type>
+    <startDate>2000-03-01</startDate>
+    <new>false</new>
+    <active>false</active>
+    <activeUpdateDate>2012-07-03T03:25:11</activeUpdateDate>
+    <regularPrice>3.99</regularPrice>
+    <salePrice>3.99</salePrice>
+    <onSale>false</onSale>
+    <planPrice/>
+    <priceWithPlan/>
+    <advertisedPriceRestriction>false</advertisedPriceRestriction>
+    <minimumDisplayPrice/>
+    <restrictedSalePrice>3.99</restrictedSalePrice>
+    <icrType/>
+    <icrStartDate/>
+    <icrEndDate/>
+    <priceUpdateDate>2012-07-03T03:25:11</priceUpdateDate>
+    <digital>false</digital>
+    <preowned>false</preowned>
+    <carrierPlans/>
+    <technologyCode/>
+    <carrierModelNumber/>
+    <earlyTerminationFees/>
+    <outletCenter/>
+    <secondaryMarket/>
+    <frequentlyPurchasedWith/>
+    <accessories/>
+    <relatedProducts/>
+    <crossSell/>
+    <salesRankShortTerm/>
+    <salesRankMediumTerm/>
+    <salesRankLongTerm/>
+    <bestSellingRank/>
+    <url/>
+    <spin360Url/>
+    <mobileUrl/>
+    <affiliateUrl/>
+    <addToCartUrl/>
+    <affiliateAddToCartUrl/>
+    <cjAffiliateUrl/>
+    <cjAffiliateAddToCartUrl/>
+    <upc>041771914707</upc>
+    <categoryPath/>
+    <lists/>
+    <customerReviewCount/>
+    <customerReviewAverage/>
+    <format/>
+    <freeShipping>false</freeShipping>
+    <hardGoodType>normalHardgood</hardGoodType>
+    <inStoreAvailability>false</inStoreAvailability>
+    <inStoreAvailabilityText>Store Pickup: Not Available</inStoreAvailabilityText>
+    <inStoreAvailabilityTextHtml>&lt;b&gt;Store Pickup:&lt;/b&gt; Not Available</inStoreAvailabilityTextHtml>
+    <inStoreAvailabilityUpdateDate>2012-07-03T03:25:11</inStoreAvailabilityUpdateDate>
+    <itemUpdateDate>2012-07-03T08:08:22</itemUpdateDate>
+    <onlineAvailability>false</onlineAvailability>
+    <onlineAvailabilityText>Shipping: Not available</onlineAvailabilityText>
+    <onlineAvailabilityTextHtml>&lt;b&gt;Shipping:&lt;/b&gt; Not available</onlineAvailabilityTextHtml>
+    <onlineAvailabilityUpdateDate>2012-07-03T03:25:11</onlineAvailabilityUpdateDate>
+    <releaseDate/>
+    <shippingCost/>
+    <shipping/>
+    <specialOrder>false</specialOrder>
+    <shortDescription>Short Description</shortDescription>
+    <shortDescriptionHtml>Short Description</shortDescriptionHtml>
+    <class>FILM</class>
+    <classId>51</classId>
+    <subclass>35 MM</subclass>
+    <subclassId>73</subclassId>
+    <department>PHOTO/COMMODITIES</department>
+    <departmentId>5</departmentId>
+    <bestBuyItemId>555447</bestBuyItemId>
+    <buybackPlans/>
+    <protectionPlans/>
+    <description/>
+    <manufacturer>Manufacturer</manufacturer>
+    <modelNumber>1241942</modelNumber>
+    <image>http://images.bestbuy.com/BestBuy_US/images/products/1285/12854_rc.jpg</image>
+    <largeFrontImage/>
+    <mediumImage>http://images.bestbuy.com/BestBuy_US/images/products/1285/12854fp.gif</mediumImage>
+    <thumbnailImage>http://images.bestbuy.com/BestBuy_US/images/products/1285/12854_r.gif</thumbnailImage>
+    <largeImage>http://images.bestbuy.com/BestBuy_US/images/products/1285/12854_rb.jpg</largeImage>
+    <alternateViewsImage/>
+    <angleImage>http://images.bestbuy.com/BestBuy_US/images/products/1285/12854_ra.jpg</angleImage>
+    <backViewImage/>
+    <energyGuideImage/>
+    <leftViewImage/>
+    <accessoriesImage/>
+    <remoteControlImage/>
+    <rightViewImage/>
+    <topViewImage/>
+    <condition>New</condition>
+    <inStorePickup>false</inStorePickup>
+    <friendsAndFamilyPickup>false</friendsAndFamilyPickup>
+    <homeDelivery>false</homeDelivery>
+    <quantityLimit>50</quantityLimit>
+    <bundledIn/>
+    <color>Color</color>
+    <depth>Product Depth</depth>
+    <dollarSavings>0.00</dollarSavings>
+    <tradeInValue/>
+    <height>Product Height</height>
+    <orderable>NotOrderable</orderable>
+    <weight>Product Weight</weight>
+    <shippingWeight>0.4</shippingWeight>
+    <width>Product Width</width>
+    <warrantyLabor>Warranty Term Labor</warrantyLabor>
+    <warrantyParts>Warranty Term Parts</warrantyParts>
+    <longDescription>Product Description</longDescription>
+    <longDescriptionHtml>Product Description</longDescriptionHtml>
+    <details>
+      <detail>
+        <name>Lens</name>
+        <value>Lens</value>
+      </detail>
+      <detail>
+        <name>Aperture Range</name>
+        <value>Aperture Range</value>
+      </detail>
+      <detail>
+        <name>Flash Range</name>
+        <value>Flash Range</value>
+      </detail>
+      <detail>
+        <name>Flash Recycle Time</name>
+        <value>Flash Recycle Time</value>
+      </detail>
+      <detail>
+        <name>Flash</name>
+        <value>Flash</value>
+      </detail>
+      <detail>
+        <name>Focus Range</name>
+        <value>Focus Range</value>
+      </detail>
+      <detail>
+        <name>Viewfinder</name>
+        <value>View Finder</value>
+      </detail>
+      <detail>
+        <name>Camera Type</name>
+        <value>Camera Type</value>
+      </detail>
+      <detail>
+        <name>Lens Type</name>
+        <value>Lens Type</value>
+      </detail>
+      <detail>
+        <name>Shutter Speed</name>
+        <value>Shutter Speed</value>
+      </detail>
+      <detail>
+        <name>Compatibility</name>
+        <value>Compatibility</value>
+      </detail>
+      <detail>
+        <name>Adjustable Film Speed</name>
+        <value>Adjustable Film Speed</value>
+      </detail>
+      <detail>
+        <name>LCD Display</name>
+        <value>Yes</value>
+      </detail>
+      <detail>
+        <name>Battery</name>
+        <value>Battery</value>
+      </detail>
+      <detail>
+        <name>Flash Modes</name>
+        <value>Flash Modes</value>
+      </detail>
+      <detail>
+        <name>Remote</name>
+        <value>No</value>
+      </detail>
+      <detail>
+        <name>Red-Eye Reduction</name>
+        <value>Red Eye Reduction</value>
+      </detail>
+      <detail>
+        <name>Date/Time Imprint</name>
+        <value>Date Time Imprint</value>
+      </detail>
+      <detail>
+        <name>Film Speed</name>
+        <value>Film Speed</value>
+      </detail>
+      <detail>
+        <name>Film Type</name>
+        <value>Film Time</value>
+      </detail>
+      <detail>
+        <name>Other Features</name>
+        <value>Other Features</value>
+      </detail>
+    </details>
+    <includedItemList/>
+    <features>
+      <feature>Feature bullet</feature>
+    </features>
+    <offers/>
+    <marketplace>false</marketplace>
+    <listingId/>
+    <sellerId/>
+  </product>
+  <product>
+    <sku>12881</sku>
+    <productId>1051806941178</productId>
+    <name>Kodak - Gold 400 Film (24 exposures)</name>
+    <source>bestbuy</source>
+    <type>HardGood</type>
+    <startDate>2000-03-01</startDate>
+    <new>false</new>
+    <active>false</active>
+    <activeUpdateDate>2012-07-02T21:16:53</activeUpdateDate>
+    <regularPrice>4.79</regularPrice>
+    <salePrice>4.79</salePrice>
+    <onSale>false</onSale>
+    <planPrice/>
+    <priceWithPlan/>
+    <advertisedPriceRestriction>false</advertisedPriceRestriction>
+    <minimumDisplayPrice/>
+    <restrictedSalePrice>4.79</restrictedSalePrice>
+    <icrType/>
+    <icrStartDate/>
+    <icrEndDate/>
+    <priceUpdateDate>2012-07-02T21:16:53</priceUpdateDate>
+    <digital>false</digital>
+    <preowned>false</preowned>
+    <carrierPlans/>
+    <technologyCode/>
+    <carrierModelNumber/>
+    <earlyTerminationFees/>
+    <outletCenter/>
+    <secondaryMarket/>
+    <frequentlyPurchasedWith/>
+    <accessories/>
+    <relatedProducts/>
+    <crossSell/>
+    <salesRankShortTerm/>
+    <salesRankMediumTerm/>
+    <salesRankLongTerm/>
+    <bestSellingRank/>
+    <url/>
+    <spin360Url/>
+    <mobileUrl/>
+    <affiliateUrl/>
+    <addToCartUrl/>
+    <affiliateAddToCartUrl/>
+    <cjAffiliateUrl/>
+    <cjAffiliateAddToCartUrl/>
+    <upc>041771060855</upc>
+    <categoryPath/>
+    <lists/>
+    <customerReviewCount/>
+    <customerReviewAverage/>
+    <format/>
+    <freeShipping>false</freeShipping>
+    <hardGoodType>normalHardgood</hardGoodType>
+    <inStoreAvailability>false</inStoreAvailability>
+    <inStoreAvailabilityText>Store Pickup: Not Available</inStoreAvailabilityText>
+    <inStoreAvailabilityTextHtml>&lt;b&gt;Store Pickup:&lt;/b&gt; Not Available</inStoreAvailabilityTextHtml>
+    <inStoreAvailabilityUpdateDate>2012-07-02T21:16:53</inStoreAvailabilityUpdateDate>
+    <itemUpdateDate>2012-07-03T08:01:06</itemUpdateDate>
+    <onlineAvailability>false</onlineAvailability>
+    <onlineAvailabilityText>Shipping: Not available</onlineAvailabilityText>
+    <onlineAvailabilityTextHtml>&lt;b&gt;Shipping:&lt;/b&gt; Not available</onlineAvailabilityTextHtml>
+    <onlineAvailabilityUpdateDate>2012-07-02T21:16:53</onlineAvailabilityUpdateDate>
+    <releaseDate/>
+    <shippingCost/>
+    <shipping/>
+    <specialOrder>false</specialOrder>
+    <shortDescription>Excellent latent-image keeping characteristics; one-channel printing; excellent consistency; excellent processing robustness</shortDescription>
+    <shortDescriptionHtml>Excellent latent-image keeping characteristics; one-channel printing; excellent consistency; excellent processing robustness</shortDescriptionHtml>
+    <class>FILM</class>
+    <classId>51</classId>
+    <subclass>35 MM</subclass>
+    <subclassId>73</subclassId>
+    <department>PHOTO/COMMODITIES</department>
+    <departmentId>5</departmentId>
+    <bestBuyItemId>555446</bestBuyItemId>
+    <buybackPlans/>
+    <protectionPlans/>
+    <description/>
+    <manufacturer>Kodak</manufacturer>
+    <modelNumber>1556992</modelNumber>
+    <image>http://images.bestbuy.com/BestBuy_US/images/products/1288/12881_rc.jpg</image>
+    <largeFrontImage/>
+    <mediumImage>http://images.bestbuy.com/BestBuy_US/images/products/1288/12881fp.gif</mediumImage>
+    <thumbnailImage>http://images.bestbuy.com/BestBuy_US/images/products/1288/12881_r.gif</thumbnailImage>
+    <largeImage>http://images.bestbuy.com/BestBuy_US/images/products/1288/12881_rb.jpg</largeImage>
+    <alternateViewsImage/>
+    <angleImage>http://images.bestbuy.com/BestBuy_US/images/products/1288/12881_ra.jpg</angleImage>
+    <backViewImage/>
+    <energyGuideImage/>
+    <leftViewImage/>
+    <accessoriesImage/>
+    <remoteControlImage/>
+    <rightViewImage/>
+    <topViewImage/>
+    <condition>New</condition>
+    <inStorePickup>false</inStorePickup>
+    <friendsAndFamilyPickup>false</friendsAndFamilyPickup>
+    <homeDelivery>false</homeDelivery>
+    <quantityLimit>50</quantityLimit>
+    <bundledIn/>
+    <color/>
+    <depth/>
+    <dollarSavings>0.00</dollarSavings>
+    <tradeInValue/>
+    <height/>
+    <orderable>NotOrderable</orderable>
+    <weight/>
+    <shippingWeight>0.08</shippingWeight>
+    <width/>
+    <warrantyLabor/>
+    <warrantyParts/>
+    <longDescription>Kodak Gold 400-speed film is perfect for a variety of lighting and action shots. 24-exposure roll.</longDescription>
+    <longDescriptionHtml>Kodak Gold 400-speed film is perfect for a variety of lighting and action shots. 24-exposure roll.</longDescriptionHtml>
+    <details>
+      <detail>
+        <name>Film Speed</name>
+        <value>400</value>
+      </detail>
+      <detail>
+        <name>Film Type</name>
+        <value>35mm</value>
+      </detail>
+      <detail>
+        <name>Other Features</name>
+        <value>24 exposure; good in sulight; partial sunlight; indoor with flash, fast action, low light</value>
+      </detail>
+    </details>
+    <includedItemList/>
+    <features>
+      <feature>Excellent latent-image keeping characteristics</feature>
+      <feature>One-channel printing</feature>
+      <feature>Excellent consistency</feature>
+      <feature>Excellent processing robustness</feature>
+      <feature>Flexibility in a variety of lighting and action situations</feature>
+    </features>
+    <offers/>
+    <marketplace>false</marketplace>
+    <listingId/>
+    <sellerId/>
+  </product>
+</products>
