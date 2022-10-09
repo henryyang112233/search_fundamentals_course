@@ -94,7 +94,11 @@ def query():
     print("query obj: {}".format(query_obj))
 
     #### Step 4.b.ii
-    response = None   # TODO: Replace me with an appropriate call to OpenSearch
+    # response = None   # TODO: Replace me with an appropriate call to OpenSearch
+    response = opensearch.search(
+        body = query_obj,
+        index = "bbuy_products"
+    )
     # Postprocess results here if you so desire
 
     #print(response)
@@ -108,14 +112,74 @@ def query():
 
 def create_query(user_query, filters, sort="_score", sortDir="desc"):
     print("Query: {} Filters: {} Sort: {}".format(user_query, filters, sort))
+    
+    if sort == "regularPrice" or sort == "name.keyword" or sort == "_score":
+        sort_field = sort
+    else:
+        sort_field = "_score"
+
     query_obj = {
-        'size': 10,
+        "size": 10,
         "query": {
-            "match_all": {} # Replace me with a query that both searches and filters
+            # "match_all": {} # Replace me with a query that both searches and filters
+            "bool": {
+                "must": [
+                    {
+                        "query_string": {
+                            "fields": [ "name", "shortDescription", "longDescription" ],
+                            "query": user_query,
+                            "phrase_slop": 3
+                        }
+                    }
+                ],
+                "filter": filters
+            }
         },
         "aggs": {
             #### Step 4.b.i: create the appropriate query and aggregations here
-
-        }
+            "regularPrice": {
+                "range": {
+                    "field": "regularPrice",
+                    "ranges": [
+                        {
+                            "to": 10.0
+                        },
+                        {
+                            "from": 10.0,
+                            "to": 20.0
+                        },
+                        {
+                            "from": 20.0
+                        }
+                    ]
+                }
+            },
+            "department": {
+                "terms": {
+                    "field": "department.keyword",
+                    "size": 10,
+                    "min_doc_count": 0
+                }
+            },
+            "missing_images": {
+                "missing": {
+                    "field": "image.keyword"
+                }
+            }
+        },
+        "highlight": {
+            "fields": {
+                "name": {},
+                "shortDescription": {},
+                "longDescription": {}
+            }
+        },
+        "sort": [
+            {
+                sort_field: {
+                    "order": sortDir
+                }
+            }
+        ]
     }
     return query_obj
