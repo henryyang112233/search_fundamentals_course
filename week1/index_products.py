@@ -119,27 +119,15 @@ def index_file(file, index_name):
             continue
         #### Step 2.b: Create a valid OpenSearch Doc and bulk index 2000 docs at a time
         # the_doc = None
-        the_doc = doc
-
-        # index one by one
-        # doc_id = doc["productId"]
-        # print("Indexing {}".format(doc_id))
-        # response = client.index(
-        #     index=index_name,
-        #     body=doc,
-        #     id=doc_id,
-        #     refresh=True
-        # )
-        # print('\n\tResponse:')
-        # print(response)
-
-        # index in bulk
-        the_doc["_id"] = the_doc["productId"][0]
-        docs.append(the_doc)
+        docs.append({"_id": doc["sku"][0], "_source": doc})
+        docs_indexed = docs_indexed + 1
         BULK_SIZE = 2000
         if len(docs) == BULK_SIZE:
             bulk(client, docs, index=index_name)
-            docs = []
+            docs = [] # Reset docs every time it reaches the bulk size and after we have indexed it
+    # index the rest of docs
+    if len(docs) > 0:
+        bulk(client, docs, index=index_name)
 
     return docs_indexed
 
